@@ -1,7 +1,7 @@
 # Ataques de tubarão: oportunidade de negócios?
 ###### By Gisele Siqueira for IronHack Data Analytics Bootcamp, 2021
 
-![]http://gph.is/1NEeoEE
+![](http://gph.is/1NEeoEE)
 
 ## Propósito
 
