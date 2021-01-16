@@ -1,6 +1,8 @@
 # Ataques de tubarão: oportunidade de negócios?
 ###### By Gisele Siqueira for IronHack Data Analytics Bootcamp, 2021
 
+![]http://gph.is/1NEeoEE
+
 ## Propósito
 
 A **Akaw** é uma empresa (fictícia) que desenvolve e comercializa equipamentos para esportes aquáticos e está realizando essa pesquisa a fim de encontrar uma nova oportunidade de negócio. Com essa pesquisa, esperamos obter informações relevantes sobre:
